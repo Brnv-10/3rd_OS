@@ -5,4 +5,4 @@
 process i -> wt[i] = bt[i-1] + wt[i-1] . \
 5- Find turnaround time = waiting_time + burst_time for all processes. \
 6- Find average waiting time = total_waiting_time / no_of_processes. \
-7- Similarly, find average turnaround time = total_turn_around_time /no_of_processes. \
+7- Similarly, find average turnaround time = total_turn_around_time / no_of_processes.
